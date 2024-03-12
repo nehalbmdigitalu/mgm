@@ -86,7 +86,7 @@
 
     <!-- event-gallery-section - start
 		================================================== -->
-    <section id="event-gallery-section" class="event-gallery-section sec-ptb-100 clearfix">
+    <section id="event-gallery-section" class="event-gallery-section sec-ptb-100 clearfix ">
         <div class="container">
 
             <div class="button-group filters-button-group mb-30">
@@ -106,7 +106,7 @@
 
             <div class="grid zoom-gallery clearfix mb-80"
                 data-isotope="{ &quot;masonry&quot;: { &quot;columnWidth&quot;: 0 } }">
-                <div class="grid-item grid-item--height2 photo-gallery " data-category="photo-gallery">
+                <div class="grid-item grid-item--height1 photo-gallery " data-category="photo-gallery">
                     <a class="popup-link"
                         href="https://cdn.cbeditz.com/cbeditz/large/wedding-marriage-couple-image-background-free-kd3px.jpg">
                         <img src="https://thelavenderplanners.com/wp-content/uploads/elementor/thumbs/1-2-1-1024x683-1-q3sfqjn600s8ldz3ze5h7jl5g50d4yjtb9msst4d8g.jpg"
@@ -117,7 +117,7 @@
                         <span>Wedding Party, 24 June 2019</span>
                     </div>
                 </div>
-                <div class="grid-item grid-item--width2 video-gallery " data-category="video-gallery">
+                <div class="grid-item grid-item--width1 video-gallery " data-category="video-gallery">
                     <a class="popup-youtube" href="Vedio\WhatsApp Video 2024-03-11 at 2.39.45 PM (1).mp4">
                         <img src="https://i.pinimg.com/736x/e9/2f/54/e92f5496f837152327125b0a8c0aeee3.jpg"
                             alt="Image_not_found">
@@ -149,7 +149,7 @@
                         <span>Wedding Party, 24 June 2016</span>
                     </div>
                 </div>
-                <div class="grid-item grid-item--width2 video-gallery " data-category="video-gallery">
+                <div class="grid-item grid-item--width1 video-gallery " data-category="video-gallery">
                     <a class="popup-youtube" href="https://youtu.be/-haiaZ011OM">
                         <img src="https://imgmedia.lbb.in/media/2023/12/65803c47a42b67455b92a88d_1702902855073.jpg"
                             alt="Image_not_found">
@@ -160,7 +160,7 @@
                     </div>
                 </div>
 
-                <div class="grid-item grid-item--width2 photo-gallery " data-category="photo-gallery">
+                <div class="grid-item grid-item--width1 photo-gallery " data-category="photo-gallery">
                     <a class="popup-link" href="assets/images/gallery/6.image.jpg">
                         <img src="assets/images/gallery/6.image.jpg" alt="Image_not_found">
                     </a>
