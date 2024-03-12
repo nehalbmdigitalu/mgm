@@ -607,35 +607,7 @@ button:focus,
                 <!-- sidebar-form - end -->
 
                 <!-- main-pages-links - start -->
-                <div class="menu-link-list main-pages-links">
-                    <h2 class="menu-title">all home pages</h2>
-                    <ul>
-                        <li class="active">
-                            <a href="index-1.php">
-                                <span class="icon"><i class="fas fa-home"></i></span>
-                                Home V.1
-                            </a>
-                        </li>
-                        <li>
-                            <a href="index-2.php">
-                                <span class="icon"><i class="fas fa-home"></i></span>
-                                Home V.2
-                            </a>
-                        </li>
-                        <li>
-                            <a href="index-3.php">
-                                <span class="icon"><i class="fas fa-home"></i></span>
-                                Home v.3
-                            </a>
-                        </li>
-                        <li>
-                            <a href="index-4.php">
-                                <span class="icon"><i class="fas fa-home"></i></span>
-                                Home v.4
-                            </a>
-                        </li>
-                    </ul>
-                </div>
+
                 <!-- main-pages-links - end -->
 
                 <!-- other-pages-links - start -->
@@ -652,30 +624,6 @@ button:focus,
                             <a class="mega-tags" href="service.php">
                                 <span class="icon"><i class="fas fa-home"></i></span>
                                 our Services
-                            </a>
-                        </li>
-                        <li>
-                            <a href="event-1.php">
-                                <span class="icon"><i class="fas fa-home"></i></span>
-                                event list
-                            </a>
-                        </li>
-                        <li>
-                            <a href="event-2.php">
-                                <span class="icon"><i class="fas fa-home"></i></span>
-                                event grid
-                            </a>
-                        </li>
-                        <li>
-                            <a href="event-1-without-sidebar.php">
-                                <span class="icon"><i class="fas fa-home"></i></span>
-                                list without sidebar
-                            </a>
-                        </li>
-                        <li>
-                            <a href="event-2-without-sidebar.php">
-                                <span class="icon"><i class="fas fa-home"></i></span>
-                                grid without sidebar
                             </a>
                         </li>
                         <li>
